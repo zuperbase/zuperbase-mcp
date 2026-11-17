@@ -1,0 +1,18 @@
+{
+  "name": "zuperbase",
+  "owner": { "name": "Zuperbase", "email": "support@zuperbase.co" },
+  "metadata": {
+    "description": "Run your business from your AI app: the Zuperbase connector and skill.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "zuperbase",
+      "source": "./plugins/zuperbase",
+      "description": "Work in your Zuperbase business workspace from Claude: set up the business, enter bills from a photo, raise invoices, match bank lines, run month-end and ask about the business, with the access you choose.",
+      "version": "1.1.0",
+      "category": "productivity",
+      "keywords": ["business", "invoicing", "bookkeeping", "gst", "mcp", "small-business"]
+    }
+  ]
+}

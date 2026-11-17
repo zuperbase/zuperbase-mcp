@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Help with your Zuperbase account
+    url: mailto:support@zuperbase.co
+    about: For anything about your own organisation or billing, write to support.
+  - name: Report a security issue
+    url: mailto:support@zuperbase.co
+    about: Please report security issues privately.

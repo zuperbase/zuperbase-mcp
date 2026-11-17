@@ -1,0 +1,13 @@
+{
+  "name": "zuperbase",
+  "version": "1.1.0",
+  "description": "Work in your Zuperbase business workspace from Claude: set up the business, enter bills from a photo, raise invoices, match bank lines, run month-end and ask about the business, with the access you choose.",
+  "author": { "name": "Zuperbase, a product of TrueAxis Private Limited", "email": "support@zuperbase.co", "url": "https://zuperbase.co" },
+  "homepage": "https://zuperbase.co/ai-apps",
+  "repository": "https://github.com/zuperbase/zuperbase-mcp",
+  "license": "MIT",
+  "keywords": ["business", "invoicing", "bookkeeping", "gst", "mcp", "small-business"],
+  "mcpServers": {
+    "zuperbase": { "type": "http", "url": "https://mcp.zuperbase.co/mcp" }
+  }
+}
